@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.SayHelloServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-24T20:02:59" hostname="MITESHs-MBP" time="0.002">
+  <properties/>
+  <testcase name="it_should_add_say_hello" classname="hello.SayHelloServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
